@@ -8,4 +8,6 @@ echo "The third movie is : ${Movies[2]}"
 
 echo "All movies are: ${Movies[@]}"
 echo "Script name: $0"
+echo "Home directory $Home"
+echo "Process of current script $$
 
