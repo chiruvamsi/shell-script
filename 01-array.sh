@@ -7,4 +7,5 @@ echo "The Second movie is : ${Movies[1]}"
 echo "The third movie is : ${Movies[2]}"
 
 echo "All movies are: ${Movies[@]}"
+echo "Script name: $0"
 
