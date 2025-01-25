@@ -5,4 +5,5 @@ echo "Present working directory is: $PWD"
 echo "Home directly of current user is: $HOME"
 echo "Which user is running the script: $USER"
 echo "Process id of current script: $$"
+sleep 60 &
 echo "Process if of last command in background script: $!"
