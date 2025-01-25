@@ -6,5 +6,5 @@ echo "Home directly of current user is: $HOME"
 echo "Which user is running the script: $USER"
 echo "Process id of current script: $$"
 sleep 60 &
-echo "Process of last command in background script: $!"
+echo "Process id of last command in background script: $!"
 git --version
